@@ -1,6 +1,5 @@
 <<<<<<< HEAD
-{ "isim" : <İSMİNİZ>, okuladi: "IZU", "OgrenciNo" : "030120136", "permissions" : [ "admin", "editor", "contributor" ] }
+{ "isim" : "Kamal MİDANİ", okuladi: "IZU", "OgrenciNo" : "030120136", "permissions" : [ "admin", "editor", "contributor" ] }
 =======
-{ "isim" : <İSMİNİZ>, okuladi: "IZU", "OgrenciNo" : "030120136",  "permissions" : [ "admin", "editor", "contributor" ] }
->>>>>>> d920ef923e2fa484bd80f64caacb6e5fd8972cf1
+
 
